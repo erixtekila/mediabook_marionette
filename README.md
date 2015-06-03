@@ -1,4 +1,4 @@
-**TODO**
+Le framework Marionette.js
 ==================
 
 A book to discover the marionette.js framework.
